@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rishabh Soni
-- 👀 I’m interested in FrondEnd Dev
+- 👀 I’m interested in Fullstack dev
 - 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on Projects of FrontEnd 
+- 💞️ I’m looking to collaborate on Projects of Fullstack
 - 📫 Reach me at imriso12@gmail.com
 
 <!---
