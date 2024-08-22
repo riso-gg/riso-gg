@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rishabh Soni
-- 👀 I’m interested in Fullstack dev
-- 🌱 I’m currently learning HTML, CSS, JS
-- 💞️ I’m looking to collaborate on Projects of Fullstack
+- 👀 I’m interested in Fullstack dev role
+- 🌱 I have knowledge of C, C++, Python, Html, Css, Js, ReactJs and SQL.
+- 💞️ I’m looking to collaborate on Projects of MERN Stack.
 - 📫 Reach me at imriso12@gmail.com
 
 <!---
